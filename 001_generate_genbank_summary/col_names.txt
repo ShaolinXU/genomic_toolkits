@@ -1,0 +1,12 @@
+GI
+Orgn
+Taxa_info
+Description
+Journal
+PMED
+title
+Author
+rrnS_strand
+rrnS_seq
+rrnL_strand
+rrnL_seq

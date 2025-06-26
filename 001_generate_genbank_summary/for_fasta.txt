@@ -1,0 +1,4 @@
+GI
+Orgn
+rrnS_seq
+rrnL_seq

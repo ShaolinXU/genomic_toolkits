@@ -1,0 +1,6 @@
+>rrnS
+12s ribosomal rna
+s-rrna
+>rrnL
+16s ribosomal rna
+l-rrna
